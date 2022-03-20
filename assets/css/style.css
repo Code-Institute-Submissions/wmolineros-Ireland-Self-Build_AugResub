@@ -17,7 +17,8 @@ body {
 h2 {
     font-family: 'Poppins', sans-serif;
     letter-spacing: 1px;
-    color: #252525;    
+    color: #252525; 
+    text-transform:none;    
 }
 
 #logo {
@@ -45,8 +46,36 @@ h2 {
 }
 
 #menu a:hover {
-    background: #0c0303;
+    background: rgba(17, 65, 25, 0.7);
     color: #ffffff; 
 }
 
+/* hero image and cover text */
 
+#cover-text, #cover-text h2 {
+    color: #fff;
+}
+
+#cover-text {
+    font-size: 60%;
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 80px;
+    line-height: 270%;
+
+    width: 250px;
+    height: 200px;
+    
+    padding: 50px;
+
+    background-color: rgba(17, 65, 25, 0.7);
+    
+    bottom: 375px;
+    right: 790px;
+
+    position: absolute;
+}
+
+#contractors:hover {
+    color:#149429;
+}
