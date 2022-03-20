@@ -26,7 +26,7 @@ h2 {
 #logo {
     font-size: 300%;
     text-transform: uppercase;
-    text-decoration: none;
+    text-decoration: underline dotted;
     margin-bottom: 50px;
     margin-left: 20px;
 }
@@ -41,6 +41,7 @@ h2 {
 }
 
 #menu li {
+    text-decoration: none;
     float: right;  
     list-style-type: none;
     margin-right: 30px;
@@ -49,8 +50,8 @@ h2 {
 }
 
 #menu a:hover {
-    background: rgba(17, 65, 25, 0.7);
-    color: #ffffff; 
+    background: rgba(220, 255, 23, 0.7);
+    color: #175023; 
 }
 
 /* hero image and cover text */
@@ -92,21 +93,21 @@ h2 {
 }
 
 #contractors:hover {
-    color:#b4ceb8;
+    color:rgba(220, 255, 23, 0.7);
     text-decoration: none;
 }
 
 #expectations:hover {
-    color:#b4ceb8;
+    color:rgba(220, 255, 23, 0.7);
     text-decoration: none;
 }
 
 #home-renting:hover {
-    color:#b4ceb8;
+    color:rgba(220, 255, 23, 0.7);;
     text-decoration: none;
 }
 #second-chance:hover {
-    color:#b4ceb8;
+    color:rgba(220, 255, 23, 0.7);
     text-decoration: none;
 }
 
