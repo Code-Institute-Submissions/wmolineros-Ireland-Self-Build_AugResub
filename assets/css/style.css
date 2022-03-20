@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bungee&family=IBM+Plex+Serif:wght@200&family=Lato:wght@300&family=Libre+Franklin:wght@200&family=Nanum+Gothic&family=Pacifico&family=Tillana&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
 
 * {
     margin:0;
@@ -7,9 +7,29 @@
 }
 
 body {
-    font-family: 'IBM Plex Serif', serif;
-    font-weight: 400;
-    color:#871aa8;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color:#149429;
 }
 
 /* headings */
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 1px;
+    color: #252525;    
+}
+
+#logo {
+    font-size: 300%;
+    text-transform: uppercase;
+    margin-left: 60px;
+    margin-top: 100px;
+}
+
+/* navigation links */
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;   
+}
