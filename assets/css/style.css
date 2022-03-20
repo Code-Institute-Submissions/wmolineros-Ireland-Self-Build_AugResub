@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=IBM+Plex+Serif:wght@200&family=Lato:wght@300&family=Libre+Franklin:wght@200&family=Nanum+Gothic&family=Pacifico&family=Tillana&display=swap');
+
+* {
+    margin:0;
+    padding:0;
+    border: none;
+}
+
+body {
+    font-family: 'IBM Plex Serif', serif;
+    font-weight: 400;
+    color:#871aa8;
+}
