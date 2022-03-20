@@ -62,14 +62,12 @@ h2 {
     font-family: 'Poppins', sans-serif;
     text-transform: uppercase;
     letter-spacing: 80px;
-    line-height: 270%;
+    line-height: 450%;
 
     width: 250px;
     height: 200px;
     
-    padding-top: 20px;
-    padding-left: 20px;
-    padding-bottom: 20px;
+    padding: 20px 20px 0px 20px;
 
     background-color: rgba(17, 65, 25, 0.7);
     
@@ -83,3 +81,19 @@ h2 {
     color:#b4ceb8;
     text-decoration: none;
 }
+
+#expectations:hover {
+    color:#b4ceb8;
+    text-decoration: none;
+}
+
+#home-renting:hover {
+    color:#b4ceb8;
+    text-decoration: none;
+}
+##second-chance:hover {
+    color:#b4ceb8;
+    text-decoration: none;
+}
+
+
