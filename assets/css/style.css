@@ -59,7 +59,18 @@ h2 {
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url("../images/Self-Build-Cover-Image.jpeg") no-repeat center;
+    background: url("../images/Self-Build-Cover-Image.jpeg") no-repeat left;
+
+    /* animates zoom effect on loading page */
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+.hero-image-2 {
+    height: 600px;
+    width: 100%;
+    background: url("../images/Self-Build-Cover-Image.jpg") no-repeat right;
 
     /* animates zoom effect on loading page */
     animation-name: hero-zoom;
