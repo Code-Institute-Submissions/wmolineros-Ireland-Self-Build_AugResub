@@ -11,7 +11,7 @@ body {
     font-weight: 0px;
     color:#149429;
     text-decoration: none;
-    background-color: #f8f4f4;
+    background-color: #eceff0;
     border-radius: 50%;
 }
 
@@ -113,6 +113,15 @@ h2 {
 }
 
 /* Topic section */
+
+#topics {
+    background-image: url('../images/building-blocks.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
 
 #topics div {
     color: #fafafa;
