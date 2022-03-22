@@ -12,7 +12,7 @@ body {
     color:#149429;
     text-decoration: none;
     background-color: #eceff0;
-    border-radius: 50%;
+    border-radius: 0%; 
 }
 
 /* headings */
@@ -26,9 +26,7 @@ h2 {
 #logo {
     font-size: 300%;
     text-transform: uppercase;
-    text-decoration: underline dotted;
-    margin-bottom: 50px;
-    margin-left: 20px;
+    margin:10px;
 }
 
 /* navigation links */
@@ -36,17 +34,17 @@ h2 {
 #menu {
     font-size: 110%;
     letter-spacing: 4px; 
-    line-height: 35px; 
-    margin-bottom: 80px;
+    line-height: 0; 
+    margin-bottom: 0px;
 }
 
 #menu li {
     text-decoration: none;
     float: right;  
     list-style-type: none;
-    margin-right: 30px;
-    margin-top: 35px;
-    line-height: 10px;
+    margin-right: 0px;
+    margin-top: 0px;
+    line-height: 0px;
 }
 
 #menu a:hover {
@@ -57,10 +55,11 @@ h2 {
 /* hero image and cover text */
 
 #hero-image {
-    height: 800px;
+    height: 600px;
     width: 100%;
-    background: url("../images/Self-Build-Cover-Image.jpeg") no-repeat center;
+    background: url("../images/Self-Build-Cover-Image.jpeg") no-repeat center center;
     background-size: cover;
+    
 
     /* animates zoom effect on loading page */
     animation-name: hero-zoom;
