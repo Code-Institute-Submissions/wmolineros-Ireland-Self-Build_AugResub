@@ -68,7 +68,7 @@ h2 {
 }
 
 #cover-text, #cover-text h2 {
-    color: rgb(222, 236, 229);
+    color: rgb(255, 255, 255);
     text-transform:none;
 }
 
@@ -84,10 +84,10 @@ h2 {
     
     padding: 20px 20px 0px 20px;
 
-    background-color: rgba(221, 238, 71, 0.7);
+    background-color: rgba(199, 238, 24, 0.445);
     
     bottom: 350px;
-    right: 600px;
+    right: 500px;
 
     position: absolute;
 }
