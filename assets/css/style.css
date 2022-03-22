@@ -68,7 +68,7 @@ h2 {
 }
 
 #cover-text, #cover-text h2 {
-    color: #fff;
+    color: rgb(222, 236, 229);
     text-transform:none;
 }
 
@@ -84,9 +84,9 @@ h2 {
     
     padding: 20px 20px 0px 20px;
 
-    background-color: rgba(208, 241, 87, 0.7);
+    background-color: rgba(221, 238, 71, 0.7);
     
-    bottom: 400px;
+    bottom: 350px;
     right: 600px;
 
     position: absolute;
@@ -115,3 +115,23 @@ h2 {
     box-sizing: border-box;
     }
 
+/* footer */
+
+footer {
+    height: 100px;
+}
+
+.tools {
+    text-align: center;
+}
+
+.tools > li {
+    display: inline;
+}
+
+.tools i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%; 
+    color: #0a0a0a;
+}
