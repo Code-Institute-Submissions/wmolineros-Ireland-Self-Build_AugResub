@@ -86,8 +86,8 @@ h2 {
 
     background-color: rgba(199, 238, 24, 0.445);
     
-    bottom: 350px;
-    right: 600px;
+    bottom: 90px;
+    right: 200px;
 
     position: absolute;
 }
@@ -99,6 +99,11 @@ h2 {
     text-align: center;
     margin-top: 30px;
     margin-bottom: 30px;
+}
+
+#details p {
+    text-align:left;
+    margin: 50px;
 }
 
 /* Topic section */
@@ -126,7 +131,7 @@ h2 {
 
 #topics div h2 {
     color: #fafafa;
-    line-height: 50px;
+    line-height: 30px;
     }
 
 #stages li {
@@ -166,7 +171,7 @@ footer div {
 /* Media queries*/
 
 /* For larger to medium screens size from 700px wide and down*/
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 300px) {
     #cover-text {
         width: 0 auto;
     }
