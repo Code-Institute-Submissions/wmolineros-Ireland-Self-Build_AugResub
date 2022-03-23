@@ -132,12 +132,14 @@ h2 {
 #topics div h2 {
     color: #fafafa;
     line-height: 30px;
+    margin-bottom: 30px;
     }
 
 #stages li {
     color: #fafafa;
     text-transform: none;
     list-style-type: none;
+    text-align: left;
 }
     
 
