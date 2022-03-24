@@ -12,7 +12,6 @@ body {
     color:#149429;
     text-decoration: none;
     background-color: #eceff0;
-    border-radius: 60%; 
 }
 
 /* headings */
@@ -26,7 +25,6 @@ h2 {
 #logo {
     font-size: 300%;
     text-transform: uppercase;
-    margin:10px;
 }
 
 /* navigation links */
@@ -35,7 +33,6 @@ h2 {
     font-size: 110%;
     letter-spacing: 4px; 
     line-height: 35px; 
-    margin-bottom: 0px;
 }
 
 #menu li {
@@ -55,10 +52,11 @@ h2 {
 /* hero image and cover text */
 
 #hero-image {
-    height: 600px;
-    width: 100%;
-    background: url("../images/Self-Build-Cover-Image.jpeg") no-repeat center center;
+    height: 200px;
+    width: 80%;
+    background: url("../images/Self-Build-Cover-Image.jpeg") no-repeat center;
     background-size: cover;
+    padding: 200px;
     
 
     /* animates zoom effect on loading page */
@@ -79,15 +77,15 @@ h2 {
     letter-spacing: 80px;
     line-height: 250%;
 
-    width: 600px;
-    height: 300px;
+    width: 500px;
+    height: 100px;
     
     padding: 20px 20px 0px 20px;
 
     background-color: rgba(199, 238, 24, 0.445);
     
-    bottom: 90px;
-    right: 200px;
+    bottom: 500px;
+    right: 600px;
 
     position: absolute;
 }
@@ -173,7 +171,7 @@ footer div {
 /* Media queries*/
 
 /* For larger to medium screens size from 700px wide and down*/
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 200px) {
     #cover-text {
         width: 0 auto;
     }
