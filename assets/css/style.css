@@ -139,7 +139,13 @@ h2 {
     list-style-type: none;
     text-align: left;
 }
-    
+
+/* Experience Gallery Images */
+
+.plans , li , h2 {
+    display: inline;
+}
+
 
 /* footer */
 
