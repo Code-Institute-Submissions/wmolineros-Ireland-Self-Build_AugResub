@@ -139,6 +139,14 @@ h2 {
     color: #fafafa;
 }
 
+ul#stages {
+    list-style-type: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
 #planning-permission {
     color: orange;
     padding: 70px;
