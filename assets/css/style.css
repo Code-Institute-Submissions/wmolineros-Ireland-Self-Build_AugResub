@@ -141,10 +141,12 @@ h2 {
 
 ul#stages {
     list-style-type: none;
+    margin-right: 10px;
 }
 
 ul {
     list-style-type: none;
+    margin-right: 10px;
 }
 
 #planning-permission {
@@ -236,9 +238,9 @@ footer div {
 
 /* Media queries*/
 
-/* For larger to medium screens size from 700px wide and down*/
+/* For larger to medium screens size from 550px wide and down*/
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 550px) {
     #cover-text {
         left: 0;
         bottom:0;
