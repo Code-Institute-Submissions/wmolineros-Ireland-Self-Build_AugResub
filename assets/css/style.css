@@ -153,6 +153,11 @@ h2 {
     display: inline;
 }
 
+#plans {
+    height: 800px;
+    width: 1500px;
+    background: url("../images/Plans.PNG") no-repeat center center;
+}
 
 /* footer */
 
