@@ -84,8 +84,8 @@ h2 {
 
     background-color: rgba(199, 238, 24, 0.445);
     
-    bottom: 80px;
-    right: 60px;
+    bottom: 700px;
+    right: 500px;
 
     position: absolute;
 }
@@ -130,15 +130,15 @@ h2 {
 #topics div h2 {
     color: #fafafa;
     line-height: 30px;
-    margin-bottom: 60px;
     }
 
-#stages li {
+#stages li strong {
     color: #fafafa;
     text-transform: none;
     list-style-type: none;
-    text-align: left;
 }
+
+
 
 /* Experience Gallery Images */
 
@@ -177,8 +177,9 @@ footer div {
 /* Media queries*/
 
 /* For larger to medium screens size from 700px wide and down*/
-@media screen and (max-width: 200px) {
+@media screen and (max-width: 700px) {
     #cover-text {
         width: 0 auto;
+        bottom: 0;
     }
 }
