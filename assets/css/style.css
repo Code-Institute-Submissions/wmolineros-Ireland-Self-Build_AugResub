@@ -86,8 +86,8 @@ h2 {
 
     background-color: rgba(199, 238, 24, 0.445);
     
-    bottom: 200px;
-    right: 300px;
+    bottom: 600px;
+    right: 700px;
 
     position: absolute;
 }
@@ -151,10 +151,14 @@ ul {
 
 #planning-permission {
     color: orange;
-    padding: 70px;
+    padding: 10px;
     font-weight: 80%;
     text-align: center;
     text-decoration: none;
+}
+
+#planning-permission a:hover {
+    color: #064d0f; 
 }
 
 /* Experience Gallery Images */
@@ -163,9 +167,6 @@ ul {
     text-align: center;
 }
 
-.plans {
-    display: inline;
-}
 
 
 #plans {
@@ -175,8 +176,9 @@ ul {
     height: 400px;
     margin-top: 30px;
     margin-bottom: 30px;
-    margin-left: 350px;
+    margin-left: 600px;
    }
+
 #breaking-ground{
     background-image: url(../images/foundation-level.JPG);
     background-size: 600px;
@@ -184,7 +186,7 @@ ul {
     height: 600px;
     margin-top: 30px;
     margin-bottom: 30px;
-    margin-left: 350px;
+    margin-left: 600px;
 }
 
 
@@ -195,7 +197,7 @@ ul {
     height: 450px;
     margin-top: 30px;
     margin-bottom: 30px;
-    margin-left: 350px;
+    margin-left: 600px;
 }
 
 #brick-work{
@@ -205,7 +207,11 @@ ul {
     height: 320px;
     margin-top: 30px;
     margin-bottom: 30px;
-    margin-left: 350px;
+    margin-left: 600px;
+}
+
+ul > li {
+    display: inline
 }
 
 
@@ -238,11 +244,18 @@ footer div {
 
 /* Media queries*/
 
-/* For larger to medium screens size from 550px wide and down*/
+/* For larger to medium screens size from 1550px wide and down*/
 
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 1550px) {
     #cover-text {
-        left: 0;
-        bottom:0;
+        left: 10px;
+        bottom: 50px;
+    }
+}
+
+@media screen and (max-width: 1550px) {
+    #cover-text {
+        left: 10px;
+        bottom: 50px;
     }
 }
