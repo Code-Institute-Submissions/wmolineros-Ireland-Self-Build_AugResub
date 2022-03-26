@@ -181,6 +181,23 @@ ul > li {
     text-align: center;
 }
 
+/*  Planning Page */
+
+#permission a:hover {
+    color: orange;
+}
+
+#permission {
+    text-align: left;
+    padding: 50px;
+    color: #064d0f;
+    font-weight: bolder;
+}
+
+#permission h2 {
+    height: 60px;     
+}
+
 /* footer */
 
 footer {
