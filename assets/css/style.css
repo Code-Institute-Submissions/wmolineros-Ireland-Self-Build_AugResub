@@ -92,7 +92,7 @@ h2 {
     position: absolute;
 }
 
-/* Details section */
+/* Home page details section */
 
 #details {
     color:#0a0a0a;
@@ -196,6 +196,18 @@ ul > li {
 
 #permission h2 {
     height: 60px;     
+}
+
+#submission h3 {
+    text-align: center;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+#submission div {
+    display: inline;
+    padding: 50px;
 }
 
 /* footer */
