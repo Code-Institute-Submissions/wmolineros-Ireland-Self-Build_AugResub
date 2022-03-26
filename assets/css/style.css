@@ -168,48 +168,6 @@ ul {
 }
 
 
-
-#plans {
-    background-image: url(../images/Plans.PNG);
-    background-size: 600px;
-    width: 600px;
-    height: 400px;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    margin-left: 600px;
-   }
-
-#breaking-ground{
-    background-image: url(../images/foundation-level.JPG);
-    background-size: 600px;
-    width: 600px;
-    height: 600px;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    margin-left: 600px;
-}
-
-
-#foundation-level {
-    background-image: url(../images/block-foundation2.JPG);
-    background-size: 600px;
-    width: 600px;
-    height: 450px;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    margin-left: 600px;
-}
-
-#brick-work{
-    background-image: url(../images/Roof-level.jpg);
-    background-size: 600px;
-    width: 600px;
-    height: 320px;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    margin-left: 600px;
-}
-
 ul > li {
     display: inline
 }
@@ -254,8 +212,8 @@ footer div {
 }
 
 @media screen and (max-width: 1550px) {
-    #cover-text {
-        left: 10px;
+    #plans {
+        right: 300px;
         bottom: 50px;
     }
 }
