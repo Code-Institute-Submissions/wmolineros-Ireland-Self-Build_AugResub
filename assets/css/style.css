@@ -82,6 +82,7 @@ h2 {
     
     padding-top:10px;
     padding-left: 10px;
+    padding-bottom: 10px;
 
     background-color: rgba(199, 238, 24, 0.445);
     
@@ -149,14 +150,25 @@ h2 {
 
 /* Experience Gallery Images */
 
-.plans , li , h2 {
+.plans li h2 {
+    text-align: center;
     display: inline;
 }
 
+
 #plans {
-    height: 800px;
-    width: 1500px;
-    background: url("../images/Plans.PNG") no-repeat center center;
+    background-image: url(../images/Plans.PNG);
+    height: 700px;
+    width: 700px;
+    background-size: auto;
+   }
+
+#foundation-level {
+    background-image: url(../images/foundation-level.JPG) no-repeat center;
+    background-size: 150px;
+    width: 300px;
+    height: 300px;
+    border: 2px solid;
 }
 
 /* footer */
