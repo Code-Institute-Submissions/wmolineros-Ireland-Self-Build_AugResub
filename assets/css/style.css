@@ -46,7 +46,7 @@ h2 {
 }
 
 #menu a:hover {
-    background: rgba(220, 255, 23, 0.459);
+    background: rgba(255, 193, 23, 0.418);
     color: #175023; 
 }
 
@@ -140,7 +140,7 @@ h2 {
     color: #fafafa;
 }
 
-ul#stages {
+ul #stages {
     list-style-type: none;
     margin-right: 10px;
 }
@@ -151,7 +151,7 @@ ul {
 }
 
 #planning-permission {
-    color: orange;
+    color: rgba(209, 105, 8, 0.904);
     padding: 10px;
     font-weight: 80%;
     text-align: center;
@@ -185,7 +185,7 @@ ul > li {
 /*  Planning Page */
 
 #permission a:hover {
-    color: orange;
+    color: rgba(228, 148, 0, 0.712);
 }
 
 #permission {
@@ -236,6 +236,11 @@ footer div {
     color: black;
     margin-top: 50px;
     text-align: center;
+}
+
+
+.tools a:hover {
+    background: rgba(255, 193, 23, 0.418);
 }
 
 /* Media queries*/
