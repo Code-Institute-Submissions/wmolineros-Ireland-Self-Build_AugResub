@@ -138,7 +138,13 @@ h2 {
     list-style-type: none;
 }
 
-
+#planning-permission {
+    color: orange;
+    padding: 70px;
+    font-weight: 80%;
+    text-align: center;
+    text-decoration: none;
+}
 
 /* Experience Gallery Images */
 
