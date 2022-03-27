@@ -190,6 +190,7 @@ ul > li {
 
 #permission {
     text-align: left;
+    clear: left;
     padding: 50px;
     color: #064d0f;
     font-weight: bolder;
@@ -197,7 +198,7 @@ ul > li {
 
 #permission h2 {
     height: 60px; 
-    padding: 60px;
+    padding: 70px;
     text-align: center;
     margin-left: 0;
 }
@@ -292,9 +293,8 @@ footer div {
         height: 250px;
         padding: 0;
     }
-
     
-    #permission h2 {
+    #permission h2 p {
        float: left;
        clear: left;
        margin-right: 0px;
@@ -302,12 +302,18 @@ footer div {
        line-height: 60px;
     }
 
+    #experience div {
+        float: left;
+        clear: left;
+        padding: 30px;
+     }
+ 
+
     #experience div h2 {
        float: left;
-       clear: left;
-       margin-right: 0px;
-       margin-bottom: 20px;
-       line-height: 60px;
+       clear:both;
+       padding: 40px;
+       margin: 50px;
     }
 
     #submission h3 {
@@ -317,11 +323,8 @@ footer div {
         margin-left: 10px;
         line-height: 50px;
     }
-
-    #footer {
-    float: left;
-    Clear: left;
-    margin-right: 0px;
-    line-height: 20px;
-    }
+    
 }
+
+/* For medium screen sizes from 550px wide and down */
+@media screen and (max-width: 550px)
