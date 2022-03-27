@@ -34,7 +34,27 @@ Citations include the following: Love Running Website,terminology from Selfbuild
 ## Surface: Visual Design
 
 **Images Used**
-![alt text][logo](https://github.com/wmolineros/Ireland-Self-Build/blob/main/assets/images/Bathroom-tiles.jpeg "Logo Title Text 1")
+* [Bathroom tiles](https://github.com/wmolineros/Ireland-Self-Build/blob/main/assets/images/Bathroom-tiles.jpeg)
+* [Before roof level](https://github.com/wmolineros/Ireland-Self-Build/blob/main/assets/images/Before-Roof-Level.jpeg)
+* [Excel Image 1](https://github.com/wmolineros/Ireland-Self-Build/blob/main/assets/images/Before-Roof-Level.jpeg)
+* [Excel Image 2](https://github.com/wmolineros/Ireland-Self-Build/blob/main/assets/images/Excel2.PNG)
+* [Excel Image 3](https://github.com/wmolineros/Ireland-Self-Build/blob/main/assets/images/Excel3.PNG)
+* [Kitchen](https://github.com/wmolineros/Ireland-Self-Build/blob/main/assets/images/Kitchen.jpeg)
+* [Map 1](https://github.com/wmolineros/Ireland-Self-Build/blob/main/assets/images/Map1.PNG)
+* [Map 2](https://github.com/wmolineros/Ireland-Self-Build/blob/main/assets/images/Map2.PNG)
+* [Map 3](https://github.com/wmolineros/Ireland-Self-Build/blob/main/assets/images/Map3.PNG)
+* [Map 4](https://github.com/wmolineros/Ireland-Self-Build/blob/main/assets/images/Map4.PNG)
+* [Map 5](https://github.com/wmolineros/Ireland-Self-Build/blob/main/assets/images/Map5.PNG)
+* [Plans](https://github.com/wmolineros/Ireland-Self-Build/blob/main/assets/images/Plans.PNG)
+* [Roof level photo](https://github.com/wmolineros/Ireland-Self-Build/blob/main/assets/images/Roof-level.jpg)
+* [Cover image for self build website](https://github.com/wmolineros/Ireland-Self-Build/blob/main/assets/images/Self-Build-Cover-Image.jpeg)
+* [Site notice image](https://github.com/wmolineros/Ireland-Self-Build/blob/main/assets/images/Site-Notice.jpeg)
+* [Underfloor heating image](https://github.com/wmolineros/Ireland-Self-Build/blob/main/assets/images/Underfloor-heating.jpeg)
+* [Block foundation 2](https://github.com/wmolineros/Ireland-Self-Build/blob/main/assets/images/block-foundation2.JPG)
+* [Block foundation 1](https://github.com/wmolineros/Ireland-Self-Build/blob/main/assets/images/building-blocks.jpeg)
+* [Flooring](https://github.com/wmolineros/Ireland-Self-Build/blob/main/assets/images/flooring.jpeg)
+* [Foundation level](https://github.com/wmolineros/Ireland-Self-Build/blob/main/assets/images/foundation-level.JPG)
+
 
 ## Site Deployment
 
