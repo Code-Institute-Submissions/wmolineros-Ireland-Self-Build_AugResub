@@ -266,7 +266,7 @@ footer div {
    
     #cover-text {
         left: 50px;
-        bottom: 500px;
+        bottom: 300px;
     }
 
     #menu {
@@ -283,11 +283,6 @@ footer div {
         margin-right: 0px;
         margin-bottom: 20px;
         line-height: 25px;
- 
-
-    #cover-text {
-        left: 20px;
-    }
 
     #topics h2 {
         line-height: 90px;
@@ -315,6 +310,4 @@ footer div {
     margin-right: 0px;
     line-height: 20px;
     }
-
-    
 }
