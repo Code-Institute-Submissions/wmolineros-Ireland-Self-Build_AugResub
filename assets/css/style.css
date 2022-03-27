@@ -25,7 +25,7 @@ h2 {
 #logo {
     font-size: 300%;
     text-transform: uppercase;
-    margin-left: 20px;
+    margin-left: 30px;
 }
 
 /* navigation links */
@@ -54,7 +54,7 @@ h2 {
 
 #hero-image {
     height: 200px;
-    width: 80%;
+    width: 70%;
     background: url("../images/Self-Build-Cover-Image.jpeg") no-repeat center;
     background-size: cover;
     padding: 200px;
@@ -259,4 +259,39 @@ footer div {
         right: 300px;
         bottom: 50px;
     }
+}
+
+/* For medium screen sizes from 950px wide and down */
+@media screen and (max-width: 950px) {
+   
+    #menu {
+        clear: right;
+        float: left;
+        margin-right: 0px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+
+    #logo {
+        clear: right;
+        float: left;
+        margin-right: 0px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+
+#cover-text {
+    left: 20px;
+}
+
+#topics div h2 { 
+    line-height: 10px;
+}
+
+#experience div {
+    float: left;
+    clear: left;
+    margin-right: 0px;
+    margin-bottom: 20px;
+    line-height: 20px;
 }
