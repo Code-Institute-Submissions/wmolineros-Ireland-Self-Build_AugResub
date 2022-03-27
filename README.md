@@ -1,4 +1,4 @@
-# Wecome to the Ireland Self Build Website! 
+# [Wecome to the Ireland Self Build Website!](https://wmolineros.github.io/Ireland-Self-Build/)
 
 
 ## Strategy 
@@ -23,18 +23,18 @@
 
 ## Skeleton Plane
 
-* **Menu Links**: 
-* **Planning Permission Link**:
+* **Experience Gallery Link**: [Experience Gallery](https://github.com/wmolineros/Ireland-Self-Build/blob/main/experience-gallery.html)
+* **Cost Link**: [Additional Cost excel images](https://github.com/wmolineros/Ireland-Self-Build/blob/main/Cost.html)
+* **Planning Permission Link**: [Planning Permission](https://github.com/wmolineros/Ireland-Self-Build/blob/main/planning.html)
 * **Footer Links**: [Ireland Self Build Facebook Page](https://www.facebook.com/groups/816924585093717), [Pinterest page for self build visualisation](https://www.pinterest.ie/), [Victoria Plumbing page for affordable toilet essentials](https://www.victorianplumbing.co.uk/), [Details to the official self build website](https://selfbuild.ie/), [Information to all Ireland local County Councils](https://www.gov.ie/en/publication/942f74-local-authorities/)
-* **Experience Gallery Link**:
-* **Cost Link**:
+
 
 Citations include the following: Love Running Website,terminology from Selfbuild.ie website,
 
 ## Surface: Visual Design
 
 **Images Used**
-*Bathroom Tiles Image
+![alt text][logo](https://github.com/wmolineros/Ireland-Self-Build/blob/main/assets/images/Bathroom-tiles.jpeg "Logo Title Text 1")
 
 ## Site Deployment
 
