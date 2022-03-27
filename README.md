@@ -25,7 +25,7 @@
 
 * **Menu Links**: 
 * **Planning Permission Link**:
-* **Footer Links**: [Ireland Self Build Facebook Page](https://www.facebook.com/groups/816924585093717), [Pinterest page for self build visualisation](https://www.pinterest.ie/), [Victoria Plumbing page for affordable toilet essentials](https://www.victorianplumbing.co.uk/), [Details to the official self build website](https://selfbuild.ie/)
+* **Footer Links**: [Ireland Self Build Facebook Page](https://www.facebook.com/groups/816924585093717), [Pinterest page for self build visualisation](https://www.pinterest.ie/), [Victoria Plumbing page for affordable toilet essentials](https://www.victorianplumbing.co.uk/), [Details to the official self build website](https://selfbuild.ie/), [Information to all Ireland local County Councils](https://www.gov.ie/en/publication/942f74-local-authorities/)
 * **Experience Gallery Link**:
 * **Cost Link**:
 
@@ -35,6 +35,15 @@ Citations include the following: Love Running Website,terminology from Selfbuild
 
 **Images Used**
 *Bathroom Tiles Image
+
+## Site Deployment
+
+**Step-By-Step**
+1. Go to Github "Ireland-Self-Build" repositry space. 
+2. Select "Settings" above "Go to file" button. 
+3. Scroll down to Github pages and select the "Check it out here!" link. 
+4. Select "main" branch. 
+5. Select "save" to deploy the published site details. 
 
 
 

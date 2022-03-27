@@ -252,12 +252,10 @@ footer div {
 
 @media screen and (max-width: 1550px) {
     #cover-text {
-        left: 10px;
-        bottom: 50px;
+        left: 50px;
+        bottom: 100px;
     }
-}
 
-@media screen and (max-width: 1550px) {
     #plans {
         right: 300px;
         bottom: 50px;
@@ -269,7 +267,7 @@ footer div {
    
     #cover-text {
         left: 50px;
-        bottom: 300px;
+        bottom: 200px;
     }
 
     #menu {
@@ -286,7 +284,23 @@ footer div {
         margin-right: 0px;
         margin-bottom: 20px;
         line-height: 25px;
+    }
 
+    #topics > div {
+        width: 100%;
+        clear: both;
+        height: 250px;
+        padding: 0;
+    }
+
+    
+    #permission h2 {
+       float: left;
+       clear: left;
+       margin-right: 0px;
+       margin-bottom: 20px;
+       line-height: 60px;
+    }
 
     #experience div h2 {
        float: left;
