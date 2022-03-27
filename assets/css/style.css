@@ -311,7 +311,7 @@ footer div {
 
     #experience div h2 {
        float: left;
-       clear:both;
+       clear: left;
        padding: 40px;
        margin: 50px;
     }
@@ -325,6 +325,3 @@ footer div {
     }
     
 }
-
-/* For medium screen sizes from 550px wide and down */
-@media screen and (max-width: 550px)
