@@ -54,7 +54,7 @@ h2 {
 
 #hero-image {
     height: 200px;
-    width: 70%;
+    width: 80%;
     background: url("../images/Self-Build-Cover-Image.jpeg") no-repeat center;
     background-size: cover;
     padding: 200px;
@@ -264,6 +264,11 @@ footer div {
 /* For medium screen sizes from 950px wide and down */
 @media screen and (max-width: 950px) {
    
+    #cover-text {
+        left: 50px;
+        bottom: 500px;
+    }
+
     #menu {
         clear: right;
         float: left;
@@ -284,9 +289,8 @@ footer div {
         left: 20px;
     }
 
-    #topics div { 
-        float: left;
-        clear: left;
+    #topics h2 {
+        line-height: 90px;
     }
 
     #experience div h2 {
@@ -297,6 +301,13 @@ footer div {
        line-height: 60px;
     }
 
+    #submission h3 {
+        float: left;
+        Clear: left;
+        margin-right: 10px;
+        margin-left: 10px;
+        line-height: 50px;
+    }
 
     #footer {
     float: left;
@@ -304,4 +315,6 @@ footer div {
     margin-right: 0px;
     line-height: 20px;
     }
+
+    
 }
