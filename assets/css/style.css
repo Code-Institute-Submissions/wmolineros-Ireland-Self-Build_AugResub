@@ -278,20 +278,30 @@ footer div {
         margin-right: 0px;
         margin-bottom: 20px;
         line-height: 25px;
+ 
+
+    #cover-text {
+        left: 20px;
     }
 
-#cover-text {
-    left: 20px;
-}
+    #topics div { 
+        float: left;
+        clear: left;
+    }
 
-#topics div h2 { 
-    line-height: 10px;
-}
+    #experience div h2 {
+       float: left;
+       clear: left;
+       margin-right: 0px;
+       margin-bottom: 20px;
+       line-height: 60px;
+    }
 
-#experience div {
+
+    #footer {
     float: left;
-    clear: left;
+    Clear: left;
     margin-right: 0px;
-    margin-bottom: 20px;
     line-height: 20px;
+    }
 }
