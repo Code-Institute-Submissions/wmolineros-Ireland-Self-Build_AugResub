@@ -1,6 +1,5 @@
 # Wecome to the Ireland Self Build Website! 
 
-Citations include the following: Love Running, inspiration from Square Space, included terminology from Selfbuild.ie website,
 
 ## Strategy 
 
@@ -29,6 +28,8 @@ Citations include the following: Love Running, inspiration from Square Space, in
 * **Footer Links**: [Ireland Self Build Facebook Page](https://www.facebook.com/groups/816924585093717), [Pinterest page for self build visualisation](https://www.pinterest.ie/), [Victoria Plumbing page for affordable toilet essentials](https://www.victorianplumbing.co.uk/), [Details to the official self build website](https://selfbuild.ie/)
 * **Experience Gallery Link**:
 * **Cost Link**:
+
+Citations include the following: Love Running Website,terminology from Selfbuild.ie website,
 
 ## Surface: Visual Design
 
