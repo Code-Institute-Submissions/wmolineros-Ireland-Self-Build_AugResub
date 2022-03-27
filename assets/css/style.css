@@ -132,7 +132,7 @@ h2 {
 
 #topics div h2 {
     color: #fafafa;
-    line-height: 90px;
+    line-height: 60px;
     display: inline;
     }
 
@@ -196,7 +196,10 @@ ul > li {
 }
 
 #permission h2 {
-    height: 60px;     
+    height: 60px; 
+    padding: 60px;
+    text-align: center;
+    margin-left: 0;
 }
 
 #submission h3 {
@@ -284,9 +287,6 @@ footer div {
         margin-bottom: 20px;
         line-height: 25px;
 
-    #topics h2 {
-        line-height: 90px;
-    }
 
     #experience div h2 {
        float: left;
@@ -298,7 +298,7 @@ footer div {
 
     #submission h3 {
         float: left;
-        Clear: left;
+        clear: left;
         margin-right: 10px;
         margin-left: 10px;
         line-height: 50px;
