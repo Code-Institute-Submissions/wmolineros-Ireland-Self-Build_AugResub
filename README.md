@@ -55,6 +55,10 @@ Citations include the following: Love Running Website,terminology from Selfbuild
 * [Flooring](https://github.com/wmolineros/Ireland-Self-Build/blob/main/assets/images/flooring.jpeg)
 * [Foundation level](https://github.com/wmolineros/Ireland-Self-Build/blob/main/assets/images/foundation-level.JPG)
 
+## Testing Steps 
+The following testing steps were executed.
+1. Go to 
+
 
 ## Site Deployment
 
@@ -64,6 +68,8 @@ Citations include the following: Love Running Website,terminology from Selfbuild
 3. Scroll down to Github pages and select the "Check it out here!" link. 
 4. Select "main" branch. 
 5. Select "save" to deploy the published site details. 
+
+
 
 
 
