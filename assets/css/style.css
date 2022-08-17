@@ -8,7 +8,7 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    font-weight: 0px;
+    font-weight: bold;
     color:#149429;
     text-decoration: none;
     background-color: #eceff0;
@@ -154,7 +154,7 @@ ul {
 #planning-permission {
     color: rgba(209, 105, 8, 0.904);
     padding: 10px;
-    font-weight: 80%;
+    font-weight: bold;
     text-align: center;
     text-decoration: none;
 }
