@@ -9,11 +9,14 @@
 
 **Details to consider**: Mortage, Stages of Build, Type of home: Single story, Two story, 1.5 story, bedrooms, Kitchen, Living Areas, Utility, Bathrooms, Outdoor Finishings, Indoor Finishings, Garden, Gallery of previous experience 	
 
+
 ## Scope
 
 #### Irish first time buyer (future home owners)	
 
 ## Structure
+
+Frontend Overview: The frontend was built using HTML and CSS. 
 
 * The structure is designed in such a way to allow the user to view information on specific topics that are essentail to the build. The main advice is added to the middle of the home page. The user can therefore go directly to the specific topics view in the center of the home page or scroll down and view topics as you move through the page. 
 
@@ -32,6 +35,20 @@
 Citations include the following: Love Running Website,terminology from Selfbuild.ie website,
 
 ## Surface: Visual Design
+
+**Font Used:**
+[Poppins ExtraLight 200(Google Fonts)] (https://fonts.google.com/specimen/Poppins?query=poppins)
+
+[Color Palette:](https://coolors.co/149429-eceff0-252525-d16908-064d0f)
+---
+- Slimy Green: '#149429'
+- Cultured: '#ECEFF0'
+- Eeire Black: '#252525'
+- Chocolate Web: '#D16908'
+- Lincoln Green: '#064D0F'
+
+![Ireland-SelfBuild](./assets/images/SelfBuild-palette.PNG)
+
 
 **Images Used**
 * [Bathroom tiles](https://github.com/wmolineros/Ireland-Self-Build/blob/main/assets/images/Bathroom-tiles.jpeg)
@@ -57,7 +74,15 @@ Citations include the following: Love Running Website,terminology from Selfbuild
 
 ## Testing Steps 
 The following testing steps were executed.
-1. Go to 
+1. Go to [The W3C Markup Validation Service](https://validator.w3.org/#validate_by_input) and add HTML code. 
+2. Identify "Errors" and "Warnings". 
+3. Correct each error and warning that is identified. 
+4. Go to [The W3C Markup Validation Service](https://validator.w3.org/#validate_by_input) and add CSS code. 
+5. Identify "Errors" and "Warnings". 
+6. Correct each error and warning that is identified. 
+
+* Errors Identified
+- 
 
 
 ## Site Deployment
