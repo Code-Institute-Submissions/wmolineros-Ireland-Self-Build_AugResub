@@ -105,7 +105,7 @@ CSS
 5. Select "save" to deploy the published site details. 
 
 
-This page was last edited on 21 August 2022, at 02:30 (GMT).
+Created by Wanda Molineros. This page was last edited on 21 August 2022, at 02:30 (GMT).
 
 
 
