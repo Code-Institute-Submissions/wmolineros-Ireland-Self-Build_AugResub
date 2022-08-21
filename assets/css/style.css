@@ -248,6 +248,11 @@ footer div {
     background: rgba(255, 193, 23, 0.418);
 }
 
+#attribution-details {
+    text-align: center;
+    color:rgb(0, 0, 0)
+}
+
 /* Media queries*/
 
 /* For larger to medium screens size from 1550px wide and down*/

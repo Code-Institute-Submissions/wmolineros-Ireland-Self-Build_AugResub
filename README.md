@@ -1,4 +1,5 @@
 # [Wecome to the Ireland Self Build Website!](https://wmolineros.github.io/Ireland-Self-Build/)
+*By Wanda Molineros*
 
 
 ## Strategy 
@@ -104,7 +105,7 @@ CSS
 5. Select "save" to deploy the published site details. 
 
 
-
+This page was last edited on 21 August 2022, at 02:30 (GMT).
 
 
 
