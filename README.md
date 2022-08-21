@@ -37,7 +37,7 @@ Frontend Overview: The frontend was built using HTML and CSS.
 * **Footer Links**: [Ireland Self Build Facebook Page](https://www.facebook.com/groups/816924585093717), [Pinterest page for self build visualisation](https://www.pinterest.ie/), [Victoria Plumbing page for affordable toilet essentials](https://www.victorianplumbing.co.uk/), [Details to the official self build website](https://selfbuild.ie/), [Information to all Ireland local County Councils](https://www.gov.ie/en/publication/942f74-local-authorities/)
 
 
-Citations include the following: Love Running Website,terminology from Selfbuild.ie website,
+Citations include the following: Love Running Website,terminology from Selfbuild.ie website, Victoria plumbing site, facebook selfbuild page. In addition, all images are from Wanda Molineros' own personsal selfbuild.  
 
 ## Surface: Visual Design
 
@@ -56,6 +56,7 @@ Citations include the following: Love Running Website,terminology from Selfbuild
 
 
 **Images Used**
+All images used were from Wanda Molineros' self-build. 
 * [Bathroom tiles](https://github.com/wmolineros/Ireland-Self-Build/blob/main/assets/images/Bathroom-tiles.jpeg)
 * [Before roof level](https://github.com/wmolineros/Ireland-Self-Build/blob/main/assets/images/Before-Roof-Level.jpeg)
 * [Excel Image 1](https://github.com/wmolineros/Ireland-Self-Build/blob/main/assets/images/Before-Roof-Level.jpeg)
@@ -105,7 +106,7 @@ CSS
 5. Select "save" to deploy the published site details. 
 
 
-Created by Wanda Molineros. This page was last edited on 21 August 2022, at 02:30 (GMT).
+#[Ireland Self Build Website!](https://wmolineros.github.io/Ireland-Self-Build/) was created by Wanda Molineros. This page was last edited on 21 August 2022, at 02:30 (GMT).
 
 
 
