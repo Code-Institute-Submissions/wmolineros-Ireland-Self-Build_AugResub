@@ -27,6 +27,8 @@ Frontend Overview: The frontend was built using HTML and CSS.
 
 * In the menu section, the user also has the option to view the experiene gallery and the cost link. The experience gallery shows pictures of some of the topics and advice discussed in the home page.The cost link shows how to use excel to manage the additional costs of a build. 
 
+![Menu-Section](./assets/images/Menu-Section.PNG)
+
 * The home page will flow from the general advice to more specific topics section and additional information on planning permission link. Then the footer contains details to the Ireland self build Ireland group, pinterest (visualisation tool for the self build), Victoria plumbing details are also added as an affordable option for toilets, and the official Self Build website in Ireland.
 
 ## Skeleton Plane
