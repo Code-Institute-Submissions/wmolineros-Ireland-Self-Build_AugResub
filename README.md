@@ -108,7 +108,7 @@ CSS
 5. Select "save" to deploy the published site details. 
 
 
-# [Ireland Self Build Website](https://wmolineros.github.io/Ireland-Self-Build/) was created by Wanda Molineros. This page was last edited on 21 August 2022, at 09:50 (GMT).
+[Ireland Self Build Website](https://wmolineros.github.io/Ireland-Self-Build/) was created by Wanda Molineros. This page was last edited on 21 August 2022, at 09:50 (GMT).
 
 
 
